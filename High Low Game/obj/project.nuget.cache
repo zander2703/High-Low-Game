@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mxXe6KZC/4Z766cWFXeczivok6lF0FhfwPrHgbmsJMYkAo80t3T8xxw+2z7+mP6QujPU+e5S4eVs0S2OJg8WJQ==",
+  "success": true,
+  "projectFilePath": "D:\\School\\Computing\\College Lesson Work\\4) Software Design and Development Project\\Coding\\High Low Game\\High Low Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zande\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

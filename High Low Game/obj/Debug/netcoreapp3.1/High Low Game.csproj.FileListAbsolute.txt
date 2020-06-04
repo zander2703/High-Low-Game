@@ -1,0 +1,13 @@
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\High Low Game\bin\Debug\netcoreapp3.1\High Low Game.exe
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\High Low Game\bin\Debug\netcoreapp3.1\High Low Game.deps.json
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\High Low Game\bin\Debug\netcoreapp3.1\High Low Game.runtimeconfig.json
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\High Low Game\bin\Debug\netcoreapp3.1\High Low Game.runtimeconfig.dev.json
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\High Low Game\bin\Debug\netcoreapp3.1\High Low Game.dll
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\High Low Game\bin\Debug\netcoreapp3.1\High Low Game.pdb
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\High Low Game\obj\Debug\netcoreapp3.1\High Low Game.csprojAssemblyReference.cache
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\High Low Game\obj\Debug\netcoreapp3.1\High Low Game.AssemblyInfoInputs.cache
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\High Low Game\obj\Debug\netcoreapp3.1\High Low Game.AssemblyInfo.cs
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\High Low Game\obj\Debug\netcoreapp3.1\High Low Game.csproj.CoreCompileInputs.cache
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\High Low Game\obj\Debug\netcoreapp3.1\High Low Game.dll
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\High Low Game\obj\Debug\netcoreapp3.1\High Low Game.pdb
+D:\School\Computing\College Lesson Work\4) Software Design and Development Project\Coding\High Low Game\obj\Debug\netcoreapp3.1\High Low Game.genruntimeconfig.cache
